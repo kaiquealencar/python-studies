@@ -1,0 +1,1 @@
+verdadeiro = (bool(input("Deseja limpar terminal? 1 (sim) | 2 (não)" )))
